@@ -3,6 +3,6 @@ tensorflow-cpu
 numpy
 pandas
 Pillow
-fpdf2
+fpdf
 plotly
 matplotlib
